@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Graphics_Homework:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f00d9d85-6210-49bc-989d-b7b1c57e4f24" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-975512453">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="63" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="18" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="7" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="15" />
+          <entry key="project.opened" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="java" value="149" />
+          <entry key="png" value="1" />
+          <entry key="rtf" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="149" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="35191" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="35191" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Util/PlayMusic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main/DrawPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="214" column="70" lean-forward="true" selection-start-line="214" selection-start-column="70" selection-end-line="214" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#DrawPanel#0;class#DrawPanel#0" />
+                <element signature="method#adjustMode#0;class#DrawPanel#0" />
+                <element signature="method#UpdateColorCanvas#0;class#DrawPanel#0" />
+                <element signature="class#RandomDrawMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#StopDrawing#0;class#DrawLineMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#drawLine#0;class#DrawPanel#0" />
+                <element signature="class#RectangleMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="class#CircleMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#mouseMoved#0;class#CircleMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#addCenter#0;class#CircleMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#modifyCenter#0;class#CircleMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#StopDrawing#0;class#CircleMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#mouseMoved#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#addCenter#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#modifyCenter#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#StopDrawing#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#CleanAndDrawEllipse#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="class#PolygonMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="class#FillPolygonMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#BezierCurveMouseAdapter#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#CleanOldCurveAndDrawBezier#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#getBt#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#addSign#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#modifySign#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#StopDrawing#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#CleanOldCurveAndDrawBSpine#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#Cu#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#BasisFunc#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#addSign#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#modifySign#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="method#StopDrawing#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+                <element signature="class#CutMouseAdapter#0;class#DrawPanel#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="70" lean-forward="true" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main/ControlPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10">
+              <caret line="220" column="86" lean-forward="true" selection-start-line="220" selection-start-column="86" selection-end-line="220" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>colorLabel</find>
+      <find>Line</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DrawColorLabel</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ArbitraryPaintingFrame.java" />
+        <option value="$PROJECT_DIR$/src/Panels/paintPanel.java" />
+        <option value="$PROJECT_DIR$/src/PlayMusic.java" />
+        <option value="$PROJECT_DIR$/src/Coordinate.java" />
+        <option value="$PROJECT_DIR$/src/layerPanel.java" />
+        <option value="$PROJECT_DIR$/src/Util/Layer.java" />
+        <option value="$PROJECT_DIR$/src/LayerPanel.java" />
+        <option value="$PROJECT_DIR$/src/PaintingPanel.java" />
+        <option value="$PROJECT_DIR$/src/Util/ImageFileFilter.java" />
+        <option value="$PROJECT_DIR$/src/PaintingFrame.java" />
+        <option value="$PROJECT_DIR$/src/MultiFunctionActions/OpenPictureAction.java" />
+        <option value="$PROJECT_DIR$/src/MultiFunctionActions/SavePictureAction.java" />
+        <option value="$PROJECT_DIR$/src/Util/ColorTempCoor.java" />
+        <option value="$PROJECT_DIR$/src/Java3DTest.java" />
+        <option value="$PROJECT_DIR$/src/BasicScene.java" />
+        <option value="$PROJECT_DIR$/src/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/Util/BasicFrame.java" />
+        <option value="$PROJECT_DIR$/src/Util/Line.java" />
+        <option value="$PROJECT_DIR$/src/Util/Rhombus.java" />
+        <option value="$PROJECT_DIR$/src/Util/OffFileFilter.java" />
+        <option value="$PROJECT_DIR$/src/Util/Coordinate.java" />
+        <option value="$PROJECT_DIR$/src/Util/Cube.java" />
+        <option value="$PROJECT_DIR$/src/Coordinates/Face.java" />
+        <option value="$PROJECT_DIR$/src/Coordinates/SpatialCoor.java" />
+        <option value="$PROJECT_DIR$/src/Util/Show3DGraph.java" />
+        <option value="$PROJECT_DIR$/src/Coordinates/CoorDouble.java" />
+        <option value="$PROJECT_DIR$/src/Util/LineObj.java" />
+        <option value="$PROJECT_DIR$/src/ControlPanel.java" />
+        <option value="$PROJECT_DIR$/src/GraphicObjects/BezierObj.java" />
+        <option value="$PROJECT_DIR$/src/GraphicObjects/LineObj.java" />
+        <option value="$PROJECT_DIR$/src/DrawPanel.java" />
+        <option value="$PROJECT_DIR$/src/GraphicObjects/GraphicObj.java" />
+        <option value="$PROJECT_DIR$/src/InputDialogs/TranslationInput.java" />
+        <option value="$PROJECT_DIR$/src/InputDialogs/ZoomInput.java" />
+        <option value="$PROJECT_DIR$/src/MultiFunctionActions/HelpAction.java" />
+        <option value="$PROJECT_DIR$/src/InputDialogs/RotateInput.java" />
+        <option value="$PROJECT_DIR$/src/Coordinates/ColorTempCoor.java" />
+        <option value="$PROJECT_DIR$/src/Main/ControlPanel.java" />
+        <option value="$PROJECT_DIR$/src/Main/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/DrawPanel.java" />
+        <option value="$PROJECT_DIR$/src/Util/PlayMusic.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="684" />
+    <option name="y" value="139" />
+    <option name="width" value="1201" />
+    <option name="height" value="956" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Graphics_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics_Homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graphics_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graphics_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Coordinates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graphics_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FileFilters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graphics_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GraphicObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graphics_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="InputDialogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graphics_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graphics_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiFunctionActions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graphics_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graphics_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546198342714" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18850575" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainTest">
+    <configuration name="BasicScene" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicScene" />
+      <module name="Graphics_Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Util.Cube" />
+      <module name="Graphics_Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coordinates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.MainTest" />
+      <module name="Graphics_Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Util.Rhombus" />
+      <module name="Graphics_Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coordinates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Show3DGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiFunctionActions.Show3DGraph" />
+      <module name="Graphics_Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coordinates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Cube" />
+      <item itemvalue="Application.Rhombus" />
+      <item itemvalue="Application.Show3DGraph" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.BasicScene" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.BasicScene" />
+        <item itemvalue="Application.Show3DGraph" />
+        <item itemvalue="Application.Cube" />
+        <item itemvalue="Application.Rhombus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f00d9d85-6210-49bc-989d-b7b1c57e4f24" name="Default Changelist" comment="" />
+      <created>1540970828083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540970828083</updated>
+      <workItem from="1540970831943" duration="5156000" />
+      <workItem from="1541662636996" duration="19296000" />
+      <workItem from="1541743449790" duration="10333000" />
+      <workItem from="1541759310113" duration="125000" />
+      <workItem from="1541759524466" duration="475000" />
+      <workItem from="1541767387156" duration="80000" />
+      <workItem from="1541774207822" duration="7966000" />
+      <workItem from="1541825658278" duration="19252000" />
+      <workItem from="1541872402700" duration="776000" />
+      <workItem from="1541922022065" duration="6089000" />
+      <workItem from="1541933479794" duration="562000" />
+      <workItem from="1541936770012" duration="603000" />
+      <workItem from="1541951092166" duration="799000" />
+      <workItem from="1542021526550" duration="837000" />
+      <workItem from="1542077636838" duration="3104000" />
+      <workItem from="1542121617197" duration="3677000" />
+      <workItem from="1542186061628" duration="4639000" />
+      <workItem from="1542445643906" duration="49000" />
+      <workItem from="1542527125032" duration="57000" />
+      <workItem from="1542805774034" duration="1172000" />
+      <workItem from="1542815916435" duration="30000" />
+      <workItem from="1542868206127" duration="1324000" />
+      <workItem from="1542903774995" duration="759000" />
+      <workItem from="1542932567324" duration="4810000" />
+      <workItem from="1542976787628" duration="5621000" />
+      <workItem from="1542987599932" duration="5010000" />
+      <workItem from="1543029317309" duration="17744000" />
+      <workItem from="1543071013640" duration="7539000" />
+      <workItem from="1543162169347" duration="4080000" />
+      <workItem from="1543213719580" duration="2950000" />
+      <workItem from="1543219280144" duration="5774000" />
+      <workItem from="1543243903531" duration="5062000" />
+      <workItem from="1543277873088" duration="8621000" />
+      <workItem from="1543290467232" duration="9434000" />
+      <workItem from="1543374128261" duration="2459000" />
+      <workItem from="1543420842867" duration="899000" />
+      <workItem from="1543426485006" duration="1247000" />
+      <workItem from="1543467939316" duration="4896000" />
+      <workItem from="1543476245927" duration="15102000" />
+      <workItem from="1543539271694" duration="648000" />
+      <workItem from="1543543117028" duration="3216000" />
+      <workItem from="1543575045511" duration="150000" />
+      <workItem from="1543583569724" duration="1063000" />
+      <workItem from="1544680624810" duration="10687000" />
+      <workItem from="1544697333001" duration="13759000" />
+      <workItem from="1544760208966" duration="430000" />
+      <workItem from="1544781610975" duration="6363000" />
+      <workItem from="1544922633530" duration="8219000" />
+      <workItem from="1544956567400" duration="12719000" />
+      <workItem from="1544972127796" duration="1367000" />
+      <workItem from="1544974101556" duration="3597000" />
+      <workItem from="1544979644367" duration="16417000" />
+      <workItem from="1545026815299" duration="25090000" />
+      <workItem from="1545089555514" duration="2803000" />
+      <workItem from="1545092489573" duration="18605000" />
+      <workItem from="1545126107396" duration="8400000" />
+      <workItem from="1545265931339" duration="305000" />
+      <workItem from="1545270250576" duration="273000" />
+      <workItem from="1545402951429" duration="237000" />
+      <workItem from="1545405819120" duration="122000" />
+      <workItem from="1546025463356" duration="49000" />
+      <workItem from="1546025576468" duration="4766000" />
+      <workItem from="1546196928760" duration="1427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="329120000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="684" y="139" width="1201" height="956" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21484038" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13425925" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.62171054" weight="0.25462964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.11587486" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.37828946" side_tool="true" weight="0.15869312" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49950835" weight="0.19003476" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ArbitraryPaintingFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/Panels/paintPanel.java" />
+    <entry file="file://$PROJECT_DIR$/更新日志.rtf" />
+    <entry file="file://$PROJECT_DIR$/src/Util/Layer.java" />
+    <entry file="file://$PROJECT_DIR$/src/LayerPanel.java" />
+    <entry file="jar://$PROJECT_DIR$/jl1.0.1.jar!/javazoom/jl/converter/RiffFile.class" />
+    <entry file="jar://$PROJECT_DIR$/jl1.0.1.jar!/javazoom/jl/converter/WaveFile.class" />
+    <entry file="file://$PROJECT_DIR$/src/Java3DTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Util/BasicFrame.java" />
+    <entry file="jar://$PROJECT_DIR$/j3dcore.jar!/javax/media/j3d/Switch.class" />
+    <entry file="file://$PROJECT_DIR$/src/Util/Line.java" />
+    <entry file="file://$PROJECT_DIR$/src/Coordinates/Face.java" />
+    <entry file="file://$PROJECT_DIR$/src/Util/Rhombus.java" />
+    <entry file="file://$PROJECT_DIR$/src/Util/Cube.java" />
+    <entry file="file://$PROJECT_DIR$/src/BasicScene.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="1012" column="5" lean-forward="true" selection-start-line="1012" selection-start-column="5" selection-end-line="1012" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="6636" selection-start-line="6636" selection-end-line="6636" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12396">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icons/Bezier.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphicObjects/BezierObj.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coordinates/ColorTempCoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coordinates/Coordinate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coordinates/CoorDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coordinates/SpatialCoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileFilters/ImageFileFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileFilters/OffFileFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphicObjects/GraphicObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphicObjects/LineObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputDialogs/RotateInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputDialogs/TranslationInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="54" column="48" lean-forward="true" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputDialogs/ZoomInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/PaintingFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/PaintingPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiFunctionActions/HelpAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiFunctionActions/OpenPictureAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiFunctionActions/SavePictureAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiFunctionActions/Show3DGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-727">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/ControlPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="220" column="86" lean-forward="true" selection-start-line="220" selection-start-column="86" selection-end-line="220" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="70" lean-forward="true" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/DrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="214" column="70" lean-forward="true" selection-start-line="214" selection-start-column="70" selection-end-line="214" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#DrawPanel#0;class#DrawPanel#0" />
+            <element signature="method#adjustMode#0;class#DrawPanel#0" />
+            <element signature="method#UpdateColorCanvas#0;class#DrawPanel#0" />
+            <element signature="class#RandomDrawMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#StopDrawing#0;class#DrawLineMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#drawLine#0;class#DrawPanel#0" />
+            <element signature="class#RectangleMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="class#CircleMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#mouseMoved#0;class#CircleMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#addCenter#0;class#CircleMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#modifyCenter#0;class#CircleMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#StopDrawing#0;class#CircleMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#mouseMoved#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#addCenter#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#modifyCenter#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#StopDrawing#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#CleanAndDrawEllipse#0;class#EllipseMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="class#PolygonMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="class#FillPolygonMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#BezierCurveMouseAdapter#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#CleanOldCurveAndDrawBezier#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#getBt#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#addSign#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#modifySign#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#StopDrawing#0;class#BezierCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#CleanOldCurveAndDrawBSpine#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#Cu#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#BasisFunc#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#addSign#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#modifySign#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="method#StopDrawing#0;class#BspineCurveMouseAdapter#0;class#DrawPanel#0" />
+            <element signature="class#CutMouseAdapter#0;class#DrawPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/PlayMusic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Graphics_Homework:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18850575" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18850575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Graphics_Homework</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18850575" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

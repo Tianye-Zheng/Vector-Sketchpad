@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Graphics_Homework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Graphics_Homework_jar</output-path>
+    <root id="archive" name="Graphics_Homework.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <element id="dir-copy" path="$PROJECT_DIR$/src/resources" />
+      </element>
+      <element id="module-output" name="Graphics_Homework" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/relies/jl1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/relies/gluegen.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/relies/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/relies/jogl-all-noawt-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/relies/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/relies/jogl-all-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/relies/gluegen-rt-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$PROJECT_DIR$/relies/gluegen-rt.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/relies/gluegen.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/relies/jl1.0.1.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/relies/jogl-all-natives-macosx-universal.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/relies/jogl-all-noawt-natives-macosx-universal.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/relies/jogl-all.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/relies/gluegen-rt-natives-macosx-universal.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>

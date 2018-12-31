@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: lib/gluegen-rt-natives-macosx-universal.jar lib/gluegen-rt
+ .jar lib/gluegen.jar lib/jl1.0.1.jar lib/jogl-all-natives-macosx-univ
+ ersal.jar lib/jogl-all-noawt-natives-macosx-universal.jar lib/jogl-al
+ l.jar
+Main-Class: Main.MainTest
+
